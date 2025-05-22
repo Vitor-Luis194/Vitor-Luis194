@@ -25,7 +25,7 @@ Sou estudante do terceiro semestre do curso Tecnico de Redes de Computadores na 
 ## Tech Stack
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=linux,windows,aws,arduino,azure,grafana,nginx,powershell,ubuntu,visualstudio,mint,pr">
+   <img src="https://skillicons.dev/icons?i=linux,windows,arduino,azure,grafana,nginx,powershell,ubuntu,visualstudio,mint,pr">
 <p/>
 
 <p align="center">
@@ -44,3 +44,4 @@ Sou estudante do terceiro semestre do curso Tecnico de Redes de Computadores na 
 | ![CISCO CCNA](https://img.shields.io/badge/CCNA%3A%20INTRODUCTION%20TO%20NETWORKS-t?logo=cisco) | CCNA: Introduction to Networks |
 | ![CISCO CCNA](https://img.shields.io/badge/CCNA%3A%20SWICHING%2C%20ROUING%2C%20AND%20WIRELESS%20ESSENTIALS-t?logo=cisco) | CCNA: Switching, Routing, and Wireless Essentials |
 | ![CISCO CCNA](https://img.shields.io/badge/CCNA%3A%20ENTERPRISE%20NETWORKING%2C%20SECURITY%2C%20AND%20AUTOMATION-t?logo=cisco) | CCNA: Enterprise Networking, Security, and Automation |
+| ![AWS](https://img.shields.io/badge/AWS%20CLOUD%20FOUNDATIONS-t?logo=amazonwebservices) | AWS Cloud Foundations |
