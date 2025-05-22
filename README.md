@@ -25,7 +25,7 @@ Sou estudante do terceiro semestre do curso Tecnico de Redes de Computadores na 
 ## Tech Stack
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=linux,windows,arduino,azure,grafana,nginx,powershell,ubuntu,visualstudio,mint,pr">
+   <img src="https://skillicons.dev/icons?i=linux,windows,arduino,azure,grafana,nginx,powershell,visualstudio,mint,pr">
 <p/>
 
 <p align="center">
