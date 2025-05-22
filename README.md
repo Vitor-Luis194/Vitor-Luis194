@@ -41,9 +41,6 @@ Sou estudante do terceiro semestre do curso Tecnico de Redes de Computadores na 
 
 | Certificação | Nome |
 | --- | --- |
-| ![CISCO CCNA](https://img.shields.io/badge/CISCO_CCNA_ITN-T?logo=cisco) | CCNA Introduction to Networks |
-
-
-
-
-
+| ![CISCO CCNA](https://img.shields.io/badge/CCNA%3A%20INTRODUCTION%20TO%20NETWORKS-t?logo=cisco) | CCNA: Introduction to Networks |
+| ![CISCO CCNA](https://img.shields.io/badge/CCNA%3A%20SWICHING%2C%20ROUING%2C%20AND%20WIRELESS%20ESSENTIALS-t?logo=cisco) | CCNA: Switching, Routing, and Wireless Essentials |
+| ![CISCO CCNA](https://img.shields.io/badge/CCNA%3A%20ENTERPRISE%20NETWORKING%2C%20SECURITY%2C%20AND%20AUTOMATION-t?logo=cisco) | CCNA: Enterprise Networking, Security, and Automation |
