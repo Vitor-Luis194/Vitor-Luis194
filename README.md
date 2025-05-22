@@ -29,7 +29,21 @@ Sou estudante do terceiro semestre do curso Tecnico de Redes de Computadores na 
 <p/>
 
 <p align="center">
-   <img src="">
-   <img src="">
-   <img src="">
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff">
+   <img src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white">
 <p/>
+
+
+
+
+## 🏅 Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CISCO CCNA](https://img.shields.io/badge/CISCO_CCNA_ITN-T?logo=cisco) | CCNA Introduction to Networks |
+
+
+
+
+
